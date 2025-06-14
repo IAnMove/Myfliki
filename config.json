@@ -1,0 +1,16 @@
+{
+    "temp_folder": "E:\\temp",
+    "output_folder": "E:\\output",
+    "voz_metodos": [
+        {
+            "azure": "apikey",
+            "region": "francecentral",
+            "voices": [
+                {
+                    "ximena": "es-ES-XimenaNeural"
+                }
+            ],
+            "azure_api_url": "https://francecentral.api.cognitive.microsoft.com/"
+        }
+    ]
+}
